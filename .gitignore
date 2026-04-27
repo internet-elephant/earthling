@@ -1,0 +1,68 @@
+# ─── Xcode ────────────────────────────────────────────────────────────────────
+
+# Build artifacts
+build/
+DerivedData/
+
+# User-specific Xcode settings (each developer has their own)
+*.xcuserstate
+xcuserdata/
+
+# Xcode workspace state
+*.xcworkspace/xcuserdata/
+
+# Xcode legacy settings
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Xcode Scheme files (per-developer unless explicitly shared)
+*.xcscheme
+
+# ─── Swift Package Manager ────────────────────────────────────────────────────
+
+# Package.resolved is kept intentionally — locks Textual to the tested version.
+# Uncomment below only if you want contributors to always resolve fresh:
+# Package.resolved
+
+# SPM build artifacts
+.build/
+.swiftpm/
+
+# ─── macOS ────────────────────────────────────────────────────────────────────
+
+# Finder metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder thumbnails
+Icon?
+
+# Spotlight index files
+.Spotlight-V100
+
+# Trashes
+.Trashes
+.fseventsd
+
+# ─── Archives & exports ───────────────────────────────────────────────────────
+
+# Xcode archives (belong in your local Organizer, not git)
+*.xcarchive
+
+# Compiled app bundles and DMGs (not distributed via repo)
+*.app
+*.dmg
+*.ipa
+*.zip
+
+# ─── Misc ─────────────────────────────────────────────────────────────────────
+
+# Editor temp files
+*~
+*.swp
+*.swo
+
+# Environment files
+.env
