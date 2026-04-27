@@ -150,7 +150,7 @@ Click **🗑** in read mode. A confirmation dialog appears before anything is de
 
 ## Markdown
 
-Earthling renders Markdown via the [Textual](https://github.com/gonzalezreal/swift-markdown-ui) library.
+Earthling renders Markdown via the [Textual](https://github.com/gonzalezreal/textual) library.
 
 ### Supported Syntax
 
