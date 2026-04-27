@@ -204,7 +204,7 @@ Earthling renders Markdown via the [Textual](https://github.com/gonzalezreal/swi
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License — see [LICENSE](https://github.com/internet-elephant/earthling/blob/main/LICENSE) for details.
 
 If you build something with Earthling, a mention is appreciated.
 
@@ -212,7 +212,7 @@ If you build something with Earthling, a mention is appreciated.
 
 ## Acknowledgments
 
-See [ACKNOWLEDGMENTS.md](ACKNOWLEDGMENTS.md).
+See [ACKNOWLEDGMENTS.md](https://github.com/internet-elephant/earthling/blob/main/ACKNOWLEDGMENTS.md).
 
 ---
 
