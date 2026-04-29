@@ -2,7 +2,7 @@
 
 A private, minimal travel journal for macOS.
 
-Built on a simple idea: your journal belongs to you — not to a platform, not to a subscription, not to an account. Entries are stored as plain Markdown files in your app's private sandbox. No accounts. No telemetry. No ads.
+A private, minimal travel journal for macOS. No accounts, no subscriptions, no ads, no telemetry or cloud services you don't control. Just you and your journal, around the world.
 
 ![Earthling app screenshot](screenshots/hero.png)
 
