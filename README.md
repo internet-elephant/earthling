@@ -1,7 +1,5 @@
 # Earthling
 
-A private, minimal travel journal for macOS.
-
 A private, minimal travel journal for macOS. No accounts, no subscriptions, no ads, no telemetry or cloud services you don't control. Just you and your journal, around the world.
 
 ![Earthling app screenshot](screenshots/hero.png)
